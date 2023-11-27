@@ -1,0 +1,10 @@
+{
+	type: Liquid
+	name: Lehpiz
+	description: "a strange liquid"
+	color: ff0000ff
+	lightColor: ff000040
+	flammability: 0.1
+	temperature: 0.35
+	coolant: false
+}

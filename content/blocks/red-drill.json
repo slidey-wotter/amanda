@@ -1,0 +1,33 @@
+{
+	type: Drill
+	name: red drill
+	description: try the red drill
+	drillTime: 240
+	size: 4
+	tier: 5
+	drawRim: true
+	updateEffect: pulverizeRed
+	updateEffectChance: 0.01
+	drillEffect: mineHuge
+	rotateSpeed: 11
+	warmupSpeed: 0.002
+	itemCapacity: 20
+	liquidBoostIntensity: 2.1
+	consumes: {
+		liquid: {
+			liquid: cryofluid
+			amount: 0.1
+			booster: true
+			optional: true
+		}
+		power: 2.5
+	}
+	requirements: [
+		{ item: copper, amount: 1 }
+		{ item: silicon, amount: 1 }
+		{ item: titanium, amount: 1 }
+		{ item: thorium, amount: 1 }
+	]
+	category: production
+	research: laser-drill
+}

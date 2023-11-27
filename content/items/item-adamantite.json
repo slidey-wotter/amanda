@@ -1,0 +1,9 @@
+{
+	name: Adamantite
+	description: "a hard cystal, comparable to titanium"
+	color: 30eaf3ff
+	radioactivity: 0.1
+	charge: 0.3
+	hardness: 3
+	healthScaling: 0.1
+}

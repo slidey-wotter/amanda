@@ -1,0 +1,8 @@
+name: amanda
+displayName: Amanda
+author: slidey
+description: test mod
+version: 0.1
+minGameVersion: 146
+dependencies: []
+hidden: false
